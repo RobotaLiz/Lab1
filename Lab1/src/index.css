@@ -1,44 +1,10 @@
 /* Header.css */
 .header {
   width: 100%;
-  background-color: #282c34;
+  background-color: #8f6b4d;
   padding: 1rem 0;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 
-}
-
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0.10rem;
-}
-
-.logo h1 {
-  color: #61dafb;
-  font-size: 1.5rem;
-}
-
-.nav-links {
-  display: flex;
-  list-style: none;
-}
-
-.nav-links li {
-  margin-left: 1.5rem;
-}
-
-.nav-links a {
-  text-decoration: none;
-  color: #ffffff;
-  font-size: 1rem;
-  transition: color 0.3s ease;
-}
-
-.nav-links a:hover {
-  color: #61dafb;
 }
 .card .card-image {
 
